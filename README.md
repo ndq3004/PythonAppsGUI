@@ -1,3 +1,3 @@
 # PythonAppsGUI
 
-Contains many Python GUI app
+Contains many Python GUI apps
